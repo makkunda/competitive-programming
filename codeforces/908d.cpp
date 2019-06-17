@@ -103,7 +103,7 @@ int main()
 			dpd[i][j] = i+n_j;
 			}
 			
-		}
+		} 
 	}
 	return 0;
 }
